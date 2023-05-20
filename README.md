@@ -4,15 +4,15 @@
 
 ### Team members
 
-##### Lion Su - 1007271523
+##### Lion Su 
 
-Lion worked on Three.js, Web Audio, deployment, and majority of the frontend.
+Lion worked on Three.js, Web Audio, some of deployment, and majority of the frontend.
 
-##### Vanshika Virmani - 1006865251
+##### Vanshika Virmani 
 
-Vanshika worked on auth0, socket.io, sentry, and some of the backend.
+Vanshika worked on auth0, socket.io, sentry, half of the backend, some of deployement
 
-##### Lander Joshua Vitug - 1006560366
+##### Lander Joshua Vitug 
 
 Lander worked on sengrid, auth0, socket.io + redis, and some of the backend.
 
